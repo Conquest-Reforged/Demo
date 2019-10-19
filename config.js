@@ -3,7 +3,7 @@ var CONFIG = {
     "Conquest": {
       "imageFormat": "jpg",
       "lastRendered": [
-        1571410516,
+        1571485693,
         0,
         0,
         0
