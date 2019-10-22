@@ -1,15 +1,15 @@
 var CONFIG = {
   "maps": {
-    "Conquest": {
+    "alpha5": {
       "imageFormat": "jpg",
       "lastRendered": [
-        1571485693,
+        1571736788,
         0,
         0,
         0
       ],
       "maxZoom": 9,
-      "name": "Conquest",
+      "name": "TerraForged-alpha5",
       "renderView": "isometric",
       "rotations": [
         0
@@ -20,13 +20,13 @@ var CONFIG = {
         384,
         384
       ],
-      "world": "Conquest",
-      "worldName": "Conquest",
+      "world": "alpha5",
+      "worldName": "alpha5",
       "worldSeaLevel": 64
     }
   },
   "mapsOrder": [
-    "Conquest"
+    "alpha5"
   ],
   "tileSetGroups": {
     "Conquest_isometric_t1": {
