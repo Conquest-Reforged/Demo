@@ -9,7 +9,7 @@ var CONFIG = {
         0
       ],
       "maxZoom": 9,
-      "name": "TerraForged",
+      "name": "TF+BOP",
       "renderView": "isometric",
       "rotations": [
         0
